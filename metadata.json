@@ -1,0 +1,6 @@
+{
+  "name": "Haven Estates - Luxury Real Estate",
+  "description": "Discover exceptional properties, explore verified listings, and find your dream home or luxury rental across prime locations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
